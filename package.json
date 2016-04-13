@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/aztecrex/voting-client/issues"
   },
-  "homepage": "https://github.com/aztecrex/voting-client#readme"
+  "homepage": "https://github.com/aztecrex/voting-client#readme",
+  "devDependencies": {
+    "webpack": "^1.12.15",
+    "webpack-dev-server": "^1.14.1"
+  }
 }
